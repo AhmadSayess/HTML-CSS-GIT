@@ -3,4 +3,10 @@
   border: 1px solid #4491db;
   border-radius: 4px;
   background: #fff;
+  padding: 1.5px;
+}
+.pages {
+  margin-top: 0.95rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1.5rem;
 }
