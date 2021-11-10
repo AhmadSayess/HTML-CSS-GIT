@@ -11,18 +11,6 @@
   order: 4;
 }
 
-.countries--second > .country--croatia {
-  order: 1;
-}
-
-.countries--second > .country--ethiopia {
-  order: 2;
-}
-
-.countries--second > .country--laos {
-  order: 3;
-}
-
 .countries--second > .country--uganda {
   order: 5;
 }
@@ -46,3 +34,9 @@
 .countries--third > .country--uganda {
   order: 1;
 }
+
+/* .countries--third {
+  display: flex;
+flex-direction: row-reverse;
+justify-content: flex-end;
+} */
